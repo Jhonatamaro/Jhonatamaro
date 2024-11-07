@@ -25,9 +25,9 @@
 <h4 align="left">Ferramentas de design:</h4>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="27" alt="adobephotoshop logo"  />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" alt="adobephotoshop logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="27" alt="canva logo"  />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" alt="canva logo"  />
 </div>
 
 <p align="left"></p>
